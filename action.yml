@@ -1,5 +1,5 @@
 name: CI Guardrails - PR Title Check
-description: CI Guardrails - PR Title Check handles pull request title quality with pull_request event and delivers title validation report as check run.
+description: Validates pull request title format in CI.
 author: YourCompany
 branding:
   icon: play

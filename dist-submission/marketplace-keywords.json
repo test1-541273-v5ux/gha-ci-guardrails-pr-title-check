@@ -1,0 +1,104 @@
+{
+  "primaryKeywords": [
+    "github",
+    "actions",
+    "ci",
+    "policy",
+    "lint",
+    "checks",
+    "automation",
+    "devops",
+    "qa",
+    "guardrails"
+  ],
+  "secondaryKeywords": [
+    "validation-tool",
+    "with-tool",
+    "delivers-tool",
+    "pipeline",
+    "storage",
+    "run-tool",
+    "pr-tool",
+    "title",
+    "with",
+    "validation"
+  ],
+  "tags": [
+    "github",
+    "actions",
+    "ci",
+    "policy",
+    "lint",
+    "checks",
+    "automation",
+    "devops",
+    "qa",
+    "guardrails",
+    "validation-tool",
+    "with-tool",
+    "delivers-tool",
+    "pipeline",
+    "storage",
+    "run-tool",
+    "pr-tool",
+    "title",
+    "with",
+    "validation",
+    "quality",
+    "github-actions",
+    "analytics-events",
+    "delivers"
+  ],
+  "synonyms": {
+    "title": [
+      "title-ops",
+      "title-workflow",
+      "title-tool"
+    ],
+    "ci": [
+      "ci-ops",
+      "ci-workflow",
+      "ci-tool"
+    ],
+    "with": [
+      "with-ops",
+      "with-workflow",
+      "with-tool"
+    ],
+    "validation": [
+      "validation-ops",
+      "validation-workflow",
+      "validation-tool"
+    ],
+    "quality": [
+      "quality-ops",
+      "quality-workflow",
+      "quality-tool"
+    ],
+    "github-actions": [
+      "github-actions-ops",
+      "github-actions-workflow",
+      "github-actions-tool"
+    ],
+    "analytics-events": [
+      "analytics-events-ops",
+      "analytics-events-workflow",
+      "analytics-events-tool"
+    ],
+    "delivers": [
+      "delivers-ops",
+      "delivers-workflow",
+      "delivers-tool"
+    ],
+    "automation": [
+      "orchestration",
+      "autopilot",
+      "streamlining"
+    ],
+    "workflow": [
+      "pipeline",
+      "runbook",
+      "process"
+    ]
+  }
+}

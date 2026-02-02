@@ -1,0 +1,2 @@
+CI Guardrails - PR Title Check handles pull request title quality with pullrequest event and delivers title validation report as check run.…
+Reduce publishing friction across marketplace queues. Focus: Guardrails Workflow.

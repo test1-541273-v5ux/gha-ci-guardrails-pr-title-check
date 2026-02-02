@@ -1,0 +1,54 @@
+{
+  "generatedAt": "2026-02-02T20:39:41.013Z",
+  "product": {
+    "slug": "ci-guardrails-pr-title-check",
+    "name": "CI Guardrails - PR Title Check",
+    "description": "CI Guardrails - PR Title Check handles pull request title quality with pull_request event and delivers title validation report as check run.",
+    "version": "0.1.2",
+    "license": "MIT"
+  },
+  "target": {
+    "platform": "github_action",
+    "productType": "automation"
+  },
+  "modules": [
+    "storage",
+    "analytics_events"
+  ],
+  "marketplace": {
+    "pricingModel": "free",
+    "price": 0,
+    "keywords": [
+      "github",
+      "actions",
+      "ci",
+      "policy",
+      "lint",
+      "checks",
+      "automation",
+      "devops",
+      "qa",
+      "guardrails",
+      "pr",
+      "title",
+      "check",
+      "pull",
+      "request",
+      "quality",
+      "event",
+      "validation",
+      "report",
+      "run"
+    ]
+  },
+  "branding": {
+    "author": "YourCompany",
+    "website": "https://example.com",
+    "supportEmail": "support@example.com"
+  },
+  "adapter": {
+    "id": "github_action",
+    "displayName": "GitHub Marketplace (Action)",
+    "kind": "action"
+  }
+}

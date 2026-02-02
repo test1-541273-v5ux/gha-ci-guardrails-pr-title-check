@@ -1,0 +1,14 @@
+name: CI Guardrails - PR Title Check
+description: CI Guardrails - PR Title Check handles pull request title quality with pull_request event and delivers title validation report as check run.
+author: YourCompany
+branding:
+  icon: play
+  color: blue
+inputs:
+  message:
+    description: Optional message to print
+    required: false
+    default: Hello from CI Guardrails - PR Title Check
+runs:
+  using: node20
+  main: dist/index.js
